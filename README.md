@@ -1,6 +1,6 @@
 # Context API Uygulaması | Context API App
 
-React Kütüphanesi ile birlikte Vite kullanımı gösteren ayrıca, serverdan API ile veri alma, ekleme, düzenleme ve silme işlemlerinin yapıldığı, asıl olarak CONTEXT API kullanımını gösteren güzel bir uygulamayı sizlerle paylaşıyorum. Kodları inceleyebilirsiniz.
+React Kütüphanesi ile birlikte Vite kullanımı gösteren ayrıca, serverdan API ile bağlanarak, CONTEXT API kullanımını gösteren güzel bir uygulamayı sizlerle paylaşıyorum. Kodları inceleyebilirsiniz.
 
 -React
 -Vite Next Generation Frontend Tooling
